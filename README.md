@@ -15,6 +15,7 @@
  - install requirements: `python3 -m pip install --upgrade -r requirements.txt`
  - run: `python3 setup.py install` or `python3 -m pip install -e .`
  - you will be able to access and run the onion with simple `onion --help` command.
+ - force to uninstall run: pip uninstall onion or python3 pip uninstall onion
 
 ## ***Download onion***
 
