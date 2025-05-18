@@ -13,7 +13,7 @@
 
 You can download the latest version of onion by cloning the GitHub repository.
 
-    git clone https://github.com/kngzbsa/sud0-0ni0n-SQL-Advanced.git
+    git clone https://github.com/sud0-Lapsus/sud0-0ni0n-SQL-Advanced.git
 
 ## ***Installation***
 
