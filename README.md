@@ -9,6 +9,12 @@
 - Python 3
 - Python `pip3`
 
+## ***Download onion***
+
+You can download the latest version of onion by cloning the GitHub repository.
+
+    git clone https://github.com/kngzbsa/sud0-0ni0n-SQL-Advanced.git
+
 ## ***Installation***
 
  - cd to **sud0-0ni0n-SQL-Advanced** directory.
@@ -16,12 +22,6 @@
  - run: `python3 setup.py install` or `python3 -m pip install -e .`
  - you will be able to access and run the onion with simple `onion --help` command.
  - force to uninstall run: pip uninstall onion or python3 pip uninstall onion
-
-## ***Download onion***
-
-You can download the latest version of onion by cloning the GitHub repository.
-
-    git clone https://github.com/kngzbsa/sud0-0ni0n-SQL-Advanced.git
 
 ## ***Features***
  - Supports following types of injection payloads:
