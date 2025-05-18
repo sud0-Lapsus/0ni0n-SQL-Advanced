@@ -2,7 +2,7 @@
 # onion
 **An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws.**
 
-![onion-banner](https://i.ibb.co/C3HmsGbJ/0ni0nSql.png)
+![onion-banner](https://raw.githubusercontent.com/USUARIO/REPOSITORIO/BRANCH/assets/0ni0nSql.png)
 
 ## ***Requirements***
 
@@ -65,7 +65,7 @@ You can download the latest version of onion by cloning the GitHub repository.
 ## **Advanced Usage**
 
 <pre><code>
-Author: Nasir khan (<a href="https://pk.linkedin.com/in/r0oth3x49">r0ot h3x49</a>)
+Author: Sud0 - 0ni0n
 
 usage: onion -u URL [OPTIONS]
 
