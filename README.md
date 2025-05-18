@@ -2,7 +2,7 @@
 # onion
 **An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws.**
 
-![onion-banner](https://raw.githubusercontent.com/kngzbsa/sud0-0ni0n-SQL-Advanced/0ni0nSql.png)
+![onion-banner](https://github.com/sud0-Lapsus/0ni0n-SQL-Advanced/edit/main/0ni0nSql.png)
 
 ## ***Requirements***
 
